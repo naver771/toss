@@ -1,0 +1,24 @@
+index.html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- 썸네일 설정 -->
+  <meta property="og:title" content="필수 체크사항 확인하기">
+  <meta property="og:description" content="필수 체크사항 확인하기">
+  <meta property="og:image" content="https://raw.githubusercontent.com/google79/toss/main/thumbnail.jpg">
+  <meta property="og:url" content="https://google79.github.io/toss/">
+  <meta property="og:type" content="website">
+
+  <!-- 자동 이동 -->
+  <meta http-equiv="refresh" content="2; url=https://telegram.me/+HEV06N9NbCNkMGFI">
+
+  <title>이동 중...</title>
+</head>
+
+<body style="text-align:center; margin-top:100px;">
+  <h2>잠시만 기다려주세요</h2>
+  <p>필수 체크사항 확인하기.</p>
+</body>
+</html>
